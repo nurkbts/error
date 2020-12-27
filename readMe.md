@@ -1,3 +1,5 @@
+![alt text](error.png)
+
 self_scores: torch.Size([64, 8])
 attention : torch.Size([8, 64])
 attention_heads: torch.Size([64, 64])
